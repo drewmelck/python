@@ -13,4 +13,4 @@ elif a == "percent":
 elif a == "*":
     print(x * y)
 else:
-    print(Invalid input)
+    print("Invalid input")
