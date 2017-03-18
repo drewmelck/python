@@ -10,5 +10,7 @@ elif a == "-":
     print(x - y)
 elif a == "percent":
     print(x / y * 100)
-else:
+elif: a == "*":
     print(x * y)
+else:
+    print(Invalid input)
