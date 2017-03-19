@@ -31,5 +31,5 @@ elif a == '3':
 elif a == '4':
     print(x,"/",y,"=", devide(x, y))
 else:
-    print("Invalid operator")
+    print("Invalid input")
 
